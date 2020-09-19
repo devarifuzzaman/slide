@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: darkgrey;
+}
+
+h1 {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+p {
+    width: 500px;
+    background-color: #652;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    display: none;
+}
